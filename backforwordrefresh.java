@@ -21,6 +21,8 @@ public class backforwordrefresh {
 		driver.navigate().refresh();
 		driver.navigate().back();
 		driver.navigate().to("https://www.google.com/");
+		
+		//git addedss
 
 	}
 
